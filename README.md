@@ -1,3 +1,3 @@
 első sor   
 második sor
-piros
+fekete
